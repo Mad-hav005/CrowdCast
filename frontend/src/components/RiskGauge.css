@@ -1,0 +1,7 @@
+.risk-gauge{position:relative;display:inline-flex;align-items:center;justify-content:center}
+.risk-gauge svg{width:100%;height:100%;transform:rotate(-90deg)}
+.risk-gauge__bg{fill:none;stroke:var(--clr-surface-alt,#1e2334);stroke-width:7}
+.risk-gauge__fill{fill:none;stroke-width:8;stroke-linecap:round;transition:stroke-dashoffset .8s ease-out}
+.risk-gauge__label{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;pointer-events:none}
+.risk-gauge__pct{font-size:32px;font-weight:700;line-height:1}
+.risk-gauge__sub{font-size:11px;color:var(--clr-muted);margin-top:4px;text-transform:uppercase;letter-spacing:.6px}

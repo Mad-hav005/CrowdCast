@@ -1,0 +1,37 @@
+/* ───────────── Login Page ───────────── */
+.login-page{display:flex;align-items:center;justify-content:center;min-height:calc(100vh - 56px);padding:32px 20px;position:relative;overflow:hidden}
+.login-page__glow{position:absolute;width:520px;height:520px;border-radius:50%;background:radial-gradient(circle,rgba(59,130,246,.14),transparent 70%);top:50%;left:50%;transform:translate(-50%,-50%);pointer-events:none;animation:login-pulse 6s ease-in-out infinite alternate}
+@keyframes login-pulse{0%{opacity:.5;transform:translate(-50%,-50%) scale(1)}100%{opacity:1;transform:translate(-50%,-50%) scale(1.2)}}
+
+.login-card{position:relative;width:100%;max-width:440px;background:var(--clr-surface);border:1px solid var(--clr-border);border-radius:20px;padding:40px 36px;animation:cardIn .35s ease-out}
+@keyframes cardIn{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+
+.login-card__brand{display:flex;align-items:center;gap:10px;margin-bottom:28px}
+.login-card__logo{width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,var(--clr-accent),var(--clr-accent2));display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:20px}
+.login-card__title{font-size:20px;font-weight:700;color:var(--clr-text)}
+
+.login-card__heading{font-size:24px;font-weight:800;margin:0 0 4px;color:var(--clr-text)}
+.login-card__sub{font-size:14px;color:var(--clr-muted);margin:0 0 24px}
+
+/* Role buttons */
+.login-roles{display:flex;flex-direction:column;gap:12px}
+.login-role-btn{display:flex;align-items:center;gap:16px;width:100%;padding:18px 20px;border-radius:14px;border:1px solid var(--clr-border);background:var(--clr-surface-alt);color:var(--clr-text);cursor:pointer;text-align:left;font-family:inherit;transition:border-color .2s,box-shadow .2s,transform .1s}
+.login-role-btn:hover{border-color:var(--clr-accent);box-shadow:0 0 20px rgba(59,130,246,.08)}
+.login-role-btn:active{transform:scale(.98)}
+.login-role-btn--accent{border-color:rgba(139,92,246,.25)}
+.login-role-btn--accent:hover{border-color:var(--clr-accent2);box-shadow:0 0 20px rgba(139,92,246,.1)}
+.login-role-btn__icon{font-size:28px;flex-shrink:0}
+.login-role-btn__info{flex:1;display:flex;flex-direction:column;gap:2px}
+.login-role-btn__label{font-size:16px;font-weight:700}
+.login-role-btn__desc{font-size:13px;color:var(--clr-muted);line-height:1.4}
+.login-role-btn__arrow{font-size:18px;color:var(--clr-muted);transition:transform .15s}
+.login-role-btn:hover .login-role-btn__arrow{transform:translateX(4px);color:var(--clr-accent)}
+
+/* Name form */
+.login-name-form{display:flex;flex-direction:column}
+.login-name-form__back{align-self:flex-start;background:none;border:none;color:var(--clr-accent);font-size:14px;font-weight:500;cursor:pointer;padding:0;margin-bottom:16px;font-family:inherit}
+.login-name-form__back:hover{text-decoration:underline}
+.login-name-form__input{padding:12px 16px;border-radius:10px;border:1px solid var(--clr-border);background:var(--clr-bg);color:var(--clr-text);font-size:15px;font-family:inherit;outline:none;margin-bottom:16px;transition:border-color .15s}
+.login-name-form__input:focus{border-color:var(--clr-accent)}
+.login-name-form__input::placeholder{color:var(--clr-muted)}
+.login-name-form__submit{width:100%}

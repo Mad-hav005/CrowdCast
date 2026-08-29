@@ -1,0 +1,93 @@
+.org-page{max-width:1120px;margin:0 auto;padding:32px 24px 64px}
+.org-page__header{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:16px;margin-bottom:28px}
+.org-page__title{font-size:28px;font-weight:800;margin:0;color:var(--clr-text)}
+.org-page__sub{font-size:14px;color:var(--clr-muted);margin:4px 0 0}
+.org-page__actions{display:flex;gap:10px;flex-wrap:wrap}
+
+/* KPI row */
+.org-page__kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin-bottom:32px}
+
+/* Create form */
+.org-form-section{background:var(--clr-surface);border:1px solid var(--clr-border);border-radius:14px;padding:28px;margin-bottom:28px;animation:fadeIn .25s ease-out}
+@keyframes fadeIn{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:translateY(0)}}
+.org-form-section__title{font-size:18px;font-weight:700;margin:0 0 20px;color:var(--clr-text)}
+.org-form{display:flex;flex-direction:column;gap:18px}
+.org-form__row{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px}
+.org-form__field{display:flex;flex-direction:column;gap:4px}
+.org-form__field span:first-child{font-size:12px;font-weight:600;color:var(--clr-text);text-transform:uppercase;letter-spacing:.5px}
+.org-form__help{font-size:11px !important;color:var(--clr-muted) !important;text-transform:none !important;letter-spacing:0 !important;margin-bottom:2px}
+.org-form__field input,.org-form__field select{padding:9px 12px;border:1px solid var(--clr-border);border-radius:8px;background:var(--clr-bg);color:var(--clr-text);font-size:14px;font-family:inherit;outline:none;transition:border-color .15s}
+.org-form__field input:focus,.org-form__field select:focus{border-color:var(--clr-accent)}
+.org-form__field input[type="range"]{
+  -webkit-appearance:none;
+  appearance:none;
+  background:var(--clr-border);
+  height:6px;
+  border-radius:3px;
+  padding:0;
+  cursor:pointer;
+}
+.org-form__field input[type="range"]::-webkit-slider-thumb{
+  -webkit-appearance:none;
+  appearance:none;
+  width:16px;
+  height:16px;
+  border-radius:50%;
+  background:var(--clr-accent);
+  transition:transform .1s;
+}
+.org-form__field input[type="range"]::-webkit-slider-thumb:hover{
+  transform:scale(1.2);
+}
+.org-form__subtitle{font-size:14px;font-weight:700;margin:4px 0 0;color:var(--clr-text);border-top:1px solid var(--clr-border);padding-top:16px}
+.org-form__submit-row{display:flex;justify-content:flex-end}
+
+/* Result card */
+.org-result-card{display:flex;align-items:center;gap:28px;background:var(--clr-surface);border:1px solid var(--clr-border);border-radius:14px;padding:24px 28px;margin-bottom:28px;animation:fadeIn .3s ease-out}
+.org-result-card__left{flex-shrink:0}
+.org-result-card__right{display:flex;flex-direction:column;gap:10px}
+.org-result-card__txt{font-size:15px;color:var(--clr-muted);margin:0}
+.org-result-error{font-size:14px;color:#ef4444;background:rgba(239,68,68,.08);padding:12px 16px;border-radius:8px;margin-bottom:28px}
+
+/* Events */
+.org-page__events{margin-top:8px}
+.org-page__events-title{font-size:18px;font-weight:700;margin:0 0 16px;color:var(--clr-text)}
+.org-page__grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:20px}
+.org-page__card-wrap{
+  display:flex;
+  flex-direction:column;
+  background:var(--clr-surface);
+  border:1px solid var(--clr-border);
+  border-radius:14px;
+  padding:20px;
+  gap:16px;
+  position:relative;
+  transition:border-color .2s,box-shadow .2s;
+}
+.org-page__card-wrap:hover{
+  border-color:var(--clr-accent);
+  box-shadow:0 0 20px rgba(59,130,246,.08);
+}
+.org-page__card-actions{
+  display:flex;
+  justify-content:flex-end;
+  border-top:1px solid var(--clr-border);
+  padding-top:12px;
+  position:relative;
+  z-index:2;
+}
+.org-page__delete-btn{
+  background:rgba(239,68,68,.08);
+  color:#ef4444;
+  border:1px solid rgba(239,68,68,.2);
+  border-radius:6px;
+  font-size:12px;
+  font-weight:600;
+  padding:6px 12px;
+  cursor:pointer;
+  transition:background .15s,color .15s;
+}
+.org-page__delete-btn:hover{
+  background:#ef4444;
+  color:#fff;
+}

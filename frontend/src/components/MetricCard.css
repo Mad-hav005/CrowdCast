@@ -1,0 +1,5 @@
+.metric-card{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;padding:20px 16px;background:var(--clr-surface);border:1px solid var(--clr-border);border-radius:14px;min-width:140px}
+.metric-card--accent{border-color:var(--clr-accent);background:rgba(59,130,246,.04)}
+.metric-card__value{font-size:28px;font-weight:800;color:var(--clr-text)}
+.metric-card__label{font-size:11px;color:var(--clr-muted);text-transform:uppercase;letter-spacing:.8px}
+.metric-card__sub{font-size:11px;color:var(--clr-muted)}
