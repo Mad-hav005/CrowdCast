@@ -4,7 +4,7 @@ CrowdCast is an event demand and overcrowding-risk prediction platform. It lever
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The system is split into three main layers:
 
@@ -32,7 +32,7 @@ The system is split into three main layers:
 
 ---
 
-## 🧠 Machine Learning Details
+##  Machine Learning Details
 
 ### ML Approach
 The model uses marketplace snapshot attributes to predict whether ticket inventory will deplete rapidly. The target variable is derived by comparing consecutive snapshot intervals of events.
@@ -70,7 +70,7 @@ The final model is a **Random Forest Classifier** selected for its strong F1 sco
 
 ---
 
-## 🚀 Setup & Execution Instructions
+##  Setup & Execution Instructions
 
 ### Prerequisites
 - Python 3.10+
@@ -162,7 +162,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 📊 Risk Level Definition
+##  Risk Level Definition
 The `demand_probability` output from the Random Forest model is mapped into four user-friendly risk levels:
 - **LOW**: Probability $< 30\%$
 - **MODERATE**: $30\% \le \text{Probability} < 60\%$
