@@ -1,0 +1,40 @@
+CrowdCast - Copy/
+├── backend
+│   └── .gitkeep
+├── data
+│   ├── CrowdCast_Festival_Clean.csv
+│   ├── CrowdCast_ML_Dataset.csv
+│   └── CrowdCast_ML_Dataset_V2.csv
+├── figures
+│   ├── feature_importance_grouped.png
+│   ├── feature_importance_top15.png
+│   ├── target_distribution.png
+│   ├── target_vs_days.png
+│   ├── target_vs_listing_count.png
+│   └── threshold_analysis.png
+├── frontend
+│   └── .gitkeep
+├── models
+│   └── crowdcast_model_v3.pkl
+├── results
+│   ├── event_target_analysis.csv
+│   ├── feature_importance.csv
+│   ├── model_v3_comparison.csv
+│   ├── robustness_summary.csv
+│   ├── robustness_validation.csv
+│   ├── target_by_listing_change.csv
+│   ├── target_by_listing_count.csv
+│   ├── target_by_proximity.csv
+│   ├── threshold_analysis.csv
+│   └── threshold_comparison.csv
+├── src
+│   ├── eda.py
+│   ├── feature_analysis.py
+│   ├── model_v3.py
+│   ├── prepare_dataset.py
+│   ├── target_analysis.py
+│   ├── threshold_optimization.py
+│   └── validation.py
+├── .gitignore
+├── README.md
+└── requirements.txt

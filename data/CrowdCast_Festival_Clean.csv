@@ -1,0 +1,206 @@
+record_id,location,attendance,visitor_demographics,visitor_profile,economic_impact_raw,music_genre,age_min,age_max,economic_currency,economic_impact_millions_raw,genre_primary
+0,UK,200000,18-35,Music Enthusiasts,£100 million,Various,18,35,£,100,Various
+1,Belgium,400000,18-30,EDM Fans,€150 million,EDM,18,30,€,150,EDM
+2,Hungary,500000,18-40,International Attendees,€130 million,Various,18,40,€,130,Various
+3,Germany,90000,20-40,Rock Fans,€80 million,Rock,20,40,€,80,Rock
+4,Denmark,130000,18-40,Alternative Music Lovers,DKK 70 million,Alternative,18,40,DKK,70,Alternative
+5,UK,100000,16-35,Rock and Indie Fans,£60 million,Rock/Indie,16,35,£,60,Rock
+6,France,60000,30-60,Jazz Enthusiasts,€20 million,Jazz,30,60,€,20,Jazz
+7,Spain,40000,18-35,Pop and Indie Fans,€15 million,Pop/Indie,18,35,€,15,Pop
+8,Serbia,200000,18-30,Electronic and Rock Fans,€50 million,Electronic/Rock,18,30,€,50,Electronic
+9,Spain,200000,20-40,Indie and Electronic Music Lovers,€70 million,Indie/Electronic,20,40,€,70,Indie
+10,Germany,100000,18-35,Alternative Music Fans,€40 million,Alternative,18,35,€,40,Alternative
+11,Belgium,200000,18-35,Diverse Music Genres,€60 million,Various,18,35,€,60,Various
+12,Spain,150000,16-30,Pop and Rock Fans,€30 million,Pop/Rock,16,30,€,30,Pop
+13,Belgium,200000,18-35,Rock and Electronic Fans,€55 million,Rock/Electronic,18,35,€,55,Rock
+14,Belgium,150000,18-40,Rock Enthusiasts,€85 million,Rock,18,40,€,85,Rock
+15,Spain,100000,20-40,Electronic Music Fans,€35 million,Electronic,20,40,€,35,Electronic
+16,Germany,75000,18-45,Metal Fans,€45 million,Metal,18,45,€,45,Metal
+17,UK,80000,18-35,Rock and Pop Fans,£40 million,Rock/Pop,18,35,£,40,Rock
+18,Netherlands,90000,18-30,EDM Fans,€25 million,EDM,18,30,€,25,EDM
+19,UK,40000,18-35,Indie and Alternative Music Fans,£15 million,Indie/Alternative,18,35,£,15,Indie
+20,UK,45000,18-40,Diverse Music and Arts Fans,£20 million,Various,18,40,£,20,Various
+21,UK,30000,18-35,Music and Action Sports Fans,£12 million,Various,18,35,£,12,Various
+22,UK,25000,18-40,Indie and Folk Music Fans,£10 million,Indie/Folk,18,40,£,10,Indie
+23,Germany,40000,20-45,Metal and Hardcore Fans,€30 million,Metal/Hardcore,20,45,€,30,Metal
+24,UK,80000,18-30,Electronic and Indie Music Fans,£25 million,Electronic/Indie,18,30,£,25,Electronic
+25,UK,60000,18-35,EDM Fans,£30 million,EDM,18,35,£,30,EDM
+26,Australia,40000,18-35,Indie and Electronic Fans,AU$20 million,Indie/Electronic,18,35,AU,20,Indie
+27,UK,70000,18-35,EDM Fans,£35 million,EDM,18,35,£,35,EDM
+28,Switzerland,20000,25-60,Jazz and Blues Fans,CHF 10 million,Jazz/Blues,25,60,CHF,10,Jazz
+29,Uganda,20000,18-40,Afrobeat and Electronic Fans,USD 5 million,Afrobeat/Electronic,18,40,USD,5,Afrobeat
+30,Spain,35000,18-40,Indie and Electronic Fans,€18 million,Indie/Electronic,18,40,€,18,Indie
+31,USA,47000,25-50,Film and Music Fans,USD 25 million,Various,25,50,USD,25,Various
+32,Spain,80000,18-35,Rock and Alternative Fans,€45 million,Rock/Alternative,18,35,€,45,Rock
+33,Poland,60000,18-35,Diverse Music Genres,PLN 30 million,Various,18,35,PLN,30,Various
+34,Switzerland,30000,18-40,Pop and Rock Fans,CHF 8 million,Pop/Rock,18,40,CHF,8,Pop
+35,UK,45000,18-35,Electronic and Urban Music Fans,£22 million,Electronic/Urban,18,35,£,22,Electronic
+36,Greece,30000,18-35,Rock and Electronic Fans,€12 million,Rock/Electronic,18,35,€,12,Rock
+37,Finland,35000,18-35,Pop and Rock Fans,€10 million,Pop/Rock,18,35,€,10,Pop
+38,Germany,50000,18-35,Electronic and Indie Fans,€25 million,Electronic/Indie,18,35,€,25,Electronic
+39,UK,30000,18-35,Electronic and Dance Fans,£15 million,Electronic/Dance,18,35,£,15,Electronic
+40,UK,60000,18-40,Diverse Music and Arts Fans,£40 million,Various,18,40,£,40,Various
+41,USA,125000,18-40,Various Music Fans,USD 50 million,Various,18,40,USD,50,Various
+42,France,75000,18-35,Rock and Electronic Fans,€30 million,Rock/Electronic,18,35,€,30,Rock
+43,Spain,35000,18-35,Electronic and Rock Fans,€15 million,Electronic/Rock,18,35,€,15,Electronic
+44,Mexico,40000,25-60,Jazz Fans,MXN 20 million,Jazz,25,60,MXN,20,Jazz
+45,USA,70000,18-50,Art and Music Fans,USD 40 million,Various,18,50,USD,40,Various
+46,USA,20000,25-60,Classical Music Fans,USD 8 million,Classical,25,60,USD,8,Classical
+47,Spain,50000,18-35,Rock and Pop Fans,€22 million,Rock/Pop,18,35,€,22,Rock
+48,UK,30000,18-40,Rock and Alternative Fans,£15 million,Rock/Alternative,18,40,£,15,Rock
+49,UK,80000,18-35,Rock and Alternative Fans,£35 million,Rock/Alternative,18,35,£,35,Rock
+50,Germany,35000,18-40,Electronic and Rock Fans,€18 million,Electronic/Rock,18,40,€,18,Electronic
+51,Hungary,20000,25-60,Jazz Fans,€12 million,Jazz,25,60,€,12,Jazz
+52,Sweden,20000,18-60,Film and Music Fans,SEK 8 million,Various,18,60,SEK,8,Various
+53,Germany,25000,18-35,Electronic and Alternative Fans,€12 million,Electronic/Alternative,18,35,€,12,Electronic
+54,Romania,50000,18-35,Electronic and Rock Fans,€25 million,Electronic/Rock,18,35,€,25,Electronic
+55,UK,20000,18-35,Emerging Artists and Indie Fans,£10 million,Indie,18,35,£,10,Indie
+56,Canada,30000,25-60,Jazz Fans,CAD 10 million,Jazz,25,60,CAD,10,Jazz
+57,Sweden,25000,18-50,Various Music Genres,SEK 12 million,Various,18,50,SEK,12,Various
+58,UK,60000,18-40,Rock and Pop Fans,£30 million,Rock/Pop,18,40,£,30,Rock
+59,Italy,25000,18-50,Classical and Jazz Fans,€10 million,Classical/Jazz,18,50,€,10,Classical
+60,Netherlands,60000,18-35,LGBTQ+ and Pop Fans,€30 million,Pop,18,35,€,30,Pop
+61,USA,40000,25-60,Art and Music Enthusiasts,USD 20 million,Various,25,60,USD,20,Various
+62,Norway,35000,18-35,Rock and Indie Fans,NOK 15 million,Rock/Indie,18,35,NOK,15,Rock
+63,Montenegro,50000,18-35,EDM and Techno Fans,€20 million,EDM/Techno,18,35,€,20,EDM
+64,Spain,30000,18-35,Pop and Indie Fans,€12 million,Pop/Indie,18,35,€,12,Pop
+65,Germany,40000,18-45,Stoner Rock and Metal Fans,€25 million,Stoner Rock/Metal,18,45,€,25,Stoner Rock
+66,USA,25000,25-60,Various Arts and Music Fans,USD 10 million,Various,25,60,USD,10,Various
+67,Mexico,50000,18-35,Rock and Latin Music Fans,MXN 25 million,Rock/Latin,18,35,MXN,25,Rock
+68,Belgium,30000,18-35,Dark and Electronic Fans,€15 million,Dark/Electronic,18,35,€,15,Dark
+69,Japan,60000,18-35,Rock and Electronic Fans,JPY 40 million,Rock/Electronic,18,35,JPY,40,Rock
+70,Spain,25000,25-60,Classical and Jazz Fans,€12 million,Classical/Jazz,25,60,€,12,Classical
+71,UK,35000,18-35,Indie and Rock Fans,£15 million,Indie/Rock,18,35,£,15,Indie
+72,UK,40000,25-60,Folk and Celtic Music Fans,£20 million,Folk/Celtic,25,60,£,20,Folk
+73,Chile,50000,18-35,Rock and Electronic Fans,CLP 20 million,Rock/Electronic,18,35,CLP,20,Rock
+74,Norway,30000,25-60,Classical and Folk Fans,NOK 20 million,Classical/Folk,25,60,NOK,20,Classical
+75,Hungary,20000,25-60,Classical Music Fans,€15 million,Classical,25,60,€,15,Classical
+76,Ireland,50000,18-40,Indie and Electronic Fans,€30 million,Indie/Electronic,18,40,€,30,Indie
+77,Switzerland,35000,25-60,Jazz and Blues Fans,CHF 15 million,Jazz/Blues,25,60,CHF,15,Jazz
+78,Argentina,60000,18-35,Rock and Electronic Fans,ARS 20 million,Rock/Electronic,18,35,ARS,20,Rock
+79,Croatia,45000,18-30,EDM and Beach Fans,€25 million,EDM,18,30,€,25,EDM
+80,UK,25000,18-35,Folk and Acoustic Fans,£12 million,Folk/Acoustic,18,35,£,12,Folk
+81,USA,75000,20-40,Hip-Hop and R&B Fans,USD 35 million,Hip-Hop/R&B,20,40,USD,35,Hip-Hop
+82,Brazil,50000,18-35,Samba and Reggae Fans,BRL 20 million,Samba/Reggae,18,35,BRL,20,Samba
+83,Australia,30000,18-30,Indie Rock Fans,AU$15 million,Indie Rock,18,30,AU,15,Indie Rock
+84,Canada,80000,18-40,Rock and Alternative Fans,CAD 50 million,Rock/Alternative,18,40,CAD,50,Rock
+85,Japan,40000,20-40,J-Pop and Rock Fans,JPY 25 million,J-Pop/Rock,20,40,JPY,25,J-Pop
+86,South Korea,60000,18-35,K-Pop Fans,KRW 40 million,K-Pop,18,35,KRW,40,K-Pop
+87,India,70000,18-35,Bollywood and Pop Fans,INR 50 million,Bollywood/Pop,18,35,INR,50,Bollywood
+88,Italy,35000,18-35,Classical and Opera Fans,€20 million,Classical/Opera,18,35,€,20,Classical
+89,Portugal,30000,18-35,Fado and Pop Fans,€15 million,Fado/Pop,18,35,€,15,Fado
+90,Austria,25000,18-40,Classical and Electronic Fans,€12 million,Classical/Electronic,18,40,€,12,Classical
+91,New Zealand,20000,18-35,Indie and Pop Fans,NZD 10 million,Indie/Pop,18,35,NZD,10,Indie
+92,South Africa,50000,18-40,Afrobeat and Jazz Fans,ZAR 30 million,Afrobeat/Jazz,18,40,ZAR,30,Afrobeat
+93,Turkey,45000,18-35,Rock and Pop Fans,TRY 20 million,Rock/Pop,18,35,TRY,20,Rock
+94,UAE,40000,18-40,International Music Fans,AED 35 million,Various,18,40,AED,35,Various
+95,Russia,60000,18-35,Rock and Pop Fans,RUB 25 million,Rock/Pop,18,35,RUB,25,Rock
+96,Czech Republic,50000,18-35,Rock and Metal Fans,CZK 30 million,Rock/Metal,18,35,CZK,30,Rock
+97,Colombia,30000,18-35,Salsa and Reggaeton Fans,COP 15 million,Salsa/Reggaeton,18,35,COP,15,Salsa
+98,Thailand,40000,18-35,EDM and Pop Fans,THB 20 million,EDM/Pop,18,35,THB,20,EDM
+99,Indonesia,35000,18-30,Pop and Indie Fans,IDR 10 billion,Pop/Indie,18,30,IDR,10,Pop
+100,Malaysia,25000,18-35,Rock and Pop Fans,MYR 15 million,Rock/Pop,18,35,MYR,15,Rock
+101,Philippines,45000,18-35,OPM and Pop Fans,PHP 20 million,OPM/Pop,18,35,PHP,20,OPM
+102,Vietnam,30000,18-35,Pop and EDM Fans,VND 10 billion,Pop/EDM,18,35,VND,10,Pop
+103,Singapore,40000,18-40,International Music Fans,SGD 30 million,Various,18,40,SGD,30,Various
+104,Egypt,50000,18-35,Pop and Traditional Music Fans,EGP 25 million,Pop/Traditional,18,35,EGP,25,Pop
+105,Morocco,25000,18-35,Gnawa and Jazz Fans,MAD 10 million,Gnawa/Jazz,18,35,MAD,10,Gnawa
+106,Kenya,30000,18-40,Afrobeat and Pop Fans,KES 15 million,Afrobeat/Pop,18,40,KES,15,Afrobeat
+107,Tanzania,20000,18-35,Bongo Flava and Pop Fans,TZS 10 billion,Bongo Flava/Pop,18,35,TZS,10,Bongo Flava
+108,Nigeria,70000,18-35,Afrobeats and Hip-Hop Fans,NGN 50 million,Afrobeats/Hip-Hop,18,35,NGN,50,Afrobeats
+109,Ghana,35000,18-35,Highlife and Hiplife Fans,GHS 15 million,Highlife/Hiplife,18,35,GHS,15,Highlife
+110,Senegal,25000,18-35,Mbalax and Jazz Fans,XOF 10 million,Mbalax/Jazz,18,35,XOF,10,Mbalax
+111,Ivory Coast,40000,18-35,Coupé-Décalé and Pop Fans,XOF 20 million,Coupé-Décalé/Pop,18,35,XOF,20,Coupé-Décalé
+112,Cameroon,30000,18-40,Makossa and Bikutsi Fans,XAF 15 million,Makossa/Bikutsi,18,40,XAF,15,Makossa
+113,Uganda,20000,18-40,Afrobeat and Dancehall Fans,UGX 5 billion,Afrobeat/Dancehall,18,40,UGX,5,Afrobeat
+114,Zimbabwe,45000,18-35,ZimDancehall and Sungura Fans,ZWL 20 million,ZimDancehall/Sungura,18,35,ZWL,20,ZimDancehall
+115,Zambia,25000,18-35,Kalindula and Hip-Hop Fans,ZMW 10 million,Kalindula/Hip-Hop,18,35,ZMW,10,Kalindula
+116,Botswana,30000,18-35,Motswako and House Music Fans,BWP 15 million,Motswako/House,18,35,BWP,15,Motswako
+117,Namibia,20000,18-35,Kwaito and Pop Fans,NAD 10 million,Kwaito/Pop,18,35,NAD,10,Kwaito
+118,Finland,25000,18-35,Folk Metal Fans,€12 million,Folk Metal,18,35,€,12,Folk Metal
+119,Ukraine,50000,18-35,Rock and Electronic Fans,UAH 30 million,Rock/Electronic,18,35,UAH,30,Rock
+120,Chile,30000,18-35,Indie and Pop Fans,CLP 15 million,Indie/Pop,18,35,CLP,15,Indie
+121,Peru,25000,18-35,Rock and Cumbia Fans,PEN 10 million,Rock/Cumbia,18,35,PEN,10,Rock
+122,Iceland,20000,18-40,Alternative and Indie Fans,ISK 1 billion,Alternative/Indie,18,40,ISK,1,Alternative
+123,Malta,15000,18-35,EDM and Pop Fans,€8 million,EDM/Pop,18,35,€,8,EDM
+124,Latvia,10000,18-35,Rock and Folk Fans,€5 million,Rock/Folk,18,35,€,5,Rock
+125,Estonia,15000,18-40,Electronic and Indie Fans,€7 million,Electronic/Indie,18,40,€,7,Electronic
+126,Lithuania,20000,18-35,Rock and Jazz Fans,€10 million,Rock/Jazz,18,35,€,10,Rock
+127,Luxembourg,12000,18-40,Diverse Music Genres,€6 million,Various,18,40,€,6,Various
+128,Cyprus,10000,18-35,Pop and Rock Fans,€4 million,Pop/Rock,18,35,€,4,Pop
+129,Slovakia,15000,18-40,Rock and Electronic Fans,€7 million,Rock/Electronic,18,40,€,7,Rock
+130,Slovenia,18000,18-35,Alternative and Indie Fans,€9 million,Alternative/Indie,18,35,€,9,Alternative
+131,Croatia,25000,18-35,Rock and EDM Fans,€12 million,Rock/EDM,18,35,€,12,Rock
+132,Portugal,30000,18-35,Fado and Indie Fans,€15 million,Fado/Indie,18,35,€,15,Fado
+133,Ukraine,40000,18-40,Jazz and Rock Fans,UAH 25 million,Jazz/Rock,18,40,UAH,25,Jazz
+134,Belarus,20000,18-35,Electronic and Rock Fans,BYN 10 million,Electronic/Rock,18,35,BYN,10,Electronic
+135,Moldova,15000,18-40,Folk and Jazz Fans,MDL 8 million,Folk/Jazz,18,40,MDL,8,Folk
+136,Albania,10000,18-35,Rock and Pop Fans,€5 million,Rock/Pop,18,35,€,5,Rock
+137,Kosovo,12000,18-35,Electronic and Indie Fans,€6 million,Electronic/Indie,18,35,€,6,Electronic
+138,Montenegro,10000,18-40,Rock and Jazz Fans,€5 million,Rock/Jazz,18,40,€,5,Rock
+139,Bosnia and Herzegovina,15000,18-35,Electronic and Folk Fans,BAM 7 million,Electronic/Folk,18,35,BAM,7,Electronic
+140,Macedonia,20000,18-35,Rock and Pop Fans,MKD 10 million,Rock/Pop,18,35,MKD,10,Rock
+141,Armenia,15000,18-35,Jazz and Folk Fans,AMD 8 million,Jazz/Folk,18,35,AMD,8,Jazz
+142,Georgia,18000,18-35,Rock and Electronic Fans,GEL 9 million,Rock/Electronic,18,35,GEL,9,Rock
+143,Azerbaijan,20000,18-40,Jazz and Mugham Fans,AZN 10 million,Jazz/Mugham,18,40,AZN,10,Jazz
+144,Kazakhstan,25000,18-35,Rock and Pop Fans,KZT 12 million,Rock/Pop,18,35,KZT,12,Rock
+145,Uzbekistan,20000,18-35,Pop and Folk Fans,UZS 10 million,Pop/Folk,18,35,UZS,10,Pop
+146,Kyrgyzstan,15000,18-40,Rock and Jazz Fans,KGS 8 million,Rock/Jazz,18,40,KGS,8,Rock
+147,Tajikistan,10000,18-35,Pop and Rock Fans,TJS 5 million,Pop/Rock,18,35,TJS,5,Pop
+148,Turkmenistan,12000,18-40,Traditional and Pop Fans,TMT 6 million,Traditional/Pop,18,40,TMT,6,Traditional
+149,Mongolia,15000,18-35,Rock and Electronic Fans,MNT 8 million,Rock/Electronic,18,35,MNT,8,Rock
+150,Cambodia,20000,18-35,Pop and Rock Fans,KHR 10 million,Pop/Rock,18,35,KHR,10,Pop
+151,Laos,15000,18-40,Folk and Electronic Fans,LAK 8 million,Folk/Electronic,18,40,LAK,8,Folk
+152,Myanmar,20000,18-35,Rock and Pop Fans,MMK 10 million,Rock/Pop,18,35,MMK,10,Rock
+153,Bangladesh,30000,18-35,Rock and Folk Fans,BDT 15 million,Rock/Folk,18,35,BDT,15,Rock
+154,Nepal,20000,18-35,Rock and Jazz Fans,NPR 10 million,Rock/Jazz,18,35,NPR,10,Rock
+155,Bhutan,15000,18-40,Traditional and Folk Fans,BTN 8 million,Traditional/Folk,18,40,BTN,8,Traditional
+156,Sri Lanka,25000,18-35,Pop and Rock Fans,LKR 12 million,Pop/Rock,18,35,LKR,12,Pop
+157,Fiji,15000,18-40,Reggae and Folk Fans,FJD 8 million,Reggae/Folk,18,40,FJD,8,Reggae
+158,Tonga,10000,18-35,Traditional and Pop Fans,TOP 5 million,Traditional/Pop,18,35,TOP,5,Traditional
+159,Samoa,8000,18-35,Rock and Jazz Fans,WST 4 million,Rock/Jazz,18,35,WST,4,Rock
+160,Vanuatu,12000,18-40,Folk and Reggae Fans,VUV 6 million,Folk/Reggae,18,40,VUV,6,Folk
+161,Papua New Guinea,15000,18-35,Traditional and Pop Fans,PGK 8 million,Traditional/Pop,18,35,PGK,8,Traditional
+162,Solomon Islands,10000,18-35,Folk and Jazz Fans,SBD 5 million,Folk/Jazz,18,35,SBD,5,Folk
+163,Kiribati,8000,18-35,Pop and Rock Fans,AUD 4 million,Pop/Rock,18,35,AUD,4,Pop
+164,Maldives,15000,18-40,Electronic and Pop Fans,MVR 8 million,Electronic/Pop,18,40,MVR,8,Electronic
+165,Brunei,12000,18-35,Rock and Jazz Fans,BND 6 million,Rock/Jazz,18,35,BND,6,Rock
+166,East Timor,10000,18-35,Folk and Pop Fans,USD 5 million,Folk/Pop,18,35,USD,5,Folk
+167,Andorra,8000,18-35,Rock and Electronic Fans,€4 million,Rock/Electronic,18,35,€,4,Rock
+168,San Marino,10000,18-35,Pop and Jazz Fans,€5 million,Pop/Jazz,18,35,€,5,Pop
+169,Liechtenstein,8000,18-35,Rock and Folk Fans,CHF 4 million,Rock/Folk,18,35,CHF,4,Rock
+170,Monaco,12000,18-40,Jazz and Electronic Fans,€6 million,Jazz/Electronic,18,40,€,6,Jazz
+171,Vatican City,5000,18-60,Classical and Choral Fans,€2 million,Classical/Choral,18,60,€,2,Classical
+172,Belarus,20000,18-40,Rock and Pop Fans,BYN 10 million,Rock/Pop,18,40,BYN,10,Rock
+173,Paraguay,30000,18-35,Rock and Cumbia Fans,PYG 15 million,Rock/Cumbia,18,35,PYG,15,Rock
+174,Uruguay,20000,18-35,Jazz and Folk Fans,UYU 10 million,Jazz/Folk,18,35,UYU,10,Jazz
+175,Bolivia,25000,18-35,Rock and Pop Fans,BOB 12 million,Rock/Pop,18,35,BOB,12,Rock
+176,Ecuador,30000,18-35,Folk and Rock Fans,USD 15 million,Folk/Rock,18,35,USD,15,Folk
+177,Panama,20000,18-35,Jazz and Reggae Fans,PAB 10 million,Jazz/Reggae,18,35,PAB,10,Jazz
+178,Costa Rica,15000,18-35,Rock and Electronic Fans,CRC 8 million,Rock/Electronic,18,35,CRC,8,Rock
+179,El Salvador,10000,18-35,Pop and Rock Fans,USD 5 million,Pop/Rock,18,35,USD,5,Pop
+180,Honduras,12000,18-35,Rock and Folk Fans,HNL 6 million,Rock/Folk,18,35,HNL,6,Rock
+181,Nicaragua,15000,18-40,Electronic and Jazz Fans,NIO 8 million,Electronic/Jazz,18,40,NIO,8,Electronic
+182,Guatemala,20000,18-35,Rock and Pop Fans,GTQ 10 million,Rock/Pop,18,35,GTQ,10,Rock
+183,Belize,10000,18-35,Reggae and Jazz Fans,BZD 5 million,Reggae/Jazz,18,35,BZD,5,Reggae
+184,Barbados,15000,18-35,Calypso and Pop Fans,BBD 8 million,Calypso/Pop,18,35,BBD,8,Calypso
+185,Jamaica,30000,18-35,Reggae and Dancehall Fans,JMD 15 million,Reggae/Dancehall,18,35,JMD,15,Reggae
+186,Trinidad and Tobago,20000,18-35,Soca and Calypso Fans,TTD 10 million,Soca/Calypso,18,35,TTD,10,Soca
+187,Saint Lucia,8000,18-35,Jazz and Folk Fans,XCD 4 million,Jazz/Folk,18,35,XCD,4,Jazz
+188,Saint Vincent and the Grenadines,10000,18-35,Reggae and Pop Fans,XCD 5 million,Reggae/Pop,18,35,XCD,5,Reggae
+189,Dominica,8000,18-35,Folk and Jazz Fans,XCD 4 million,Folk/Jazz,18,35,XCD,4,Folk
+190,Grenada,12000,18-40,Calypso and Rock Fans,XCD 6 million,Calypso/Rock,18,40,XCD,6,Calypso
+191,Antigua and Barbuda,15000,18-35,Soca and Pop Fans,XCD 8 million,Soca/Pop,18,35,XCD,8,Soca
+192,Saint Kitts and Nevis,10000,18-35,Jazz and Rock Fans,XCD 5 million,Jazz/Rock,18,35,XCD,5,Jazz
+193,Bahamas,20000,18-35,Reggae and Junkanoo Fans,BSD 10 million,Reggae/Junkanoo,18,35,BSD,10,Reggae
+194,Aruba,8000,18-35,Rock and Jazz Fans,AWG 4 million,Rock/Jazz,18,35,AWG,4,Rock
+195,Curacao,12000,18-40,Electronic and Pop Fans,ANG 6 million,Electronic/Pop,18,40,ANG,6,Electronic
+196,Bonaire,10000,18-35,Jazz and Folk Fans,USD 5 million,Jazz/Folk,18,35,USD,5,Jazz
+197,Sint Eustatius,8000,18-35,Reggae and Rock Fans,USD 4 million,Reggae/Rock,18,35,USD,4,Reggae
+198,Saba,5000,18-35,Pop and Folk Fans,USD 2 million,Pop/Folk,18,35,USD,2,Pop
+199,Anguilla,8000,18-35,Jazz and Calypso Fans,XCD 4 million,Jazz/Calypso,18,35,XCD,4,Jazz
+200,British Virgin Islands,10000,18-35,Reggae and Rock Fans,USD 5 million,Reggae/Rock,18,35,USD,5,Reggae
+201,Cayman Islands,15000,18-35,Pop and Jazz Fans,KYD 8 million,Pop/Jazz,18,35,KYD,8,Pop
+202,Bermuda,12000,18-40,Rock and Folk Fans,BMD 6 million,Rock/Folk,18,40,BMD,6,Rock
+203,Falkland Islands,5000,18-35,Folk and Jazz Fans,FKP 2 million,Folk/Jazz,18,35,FKP,2,Folk
+204,Fiji,15000,18-40,Reggae and Folk Fans,FJD 8 million,Reggae/Folk,18,40,FJD,8,Reggae

@@ -1,0 +1,168 @@
+feature,importance
+section_count,0.17591011885822988
+listing_count,0.1678703655589779
+listing_change,0.09405877271177399
+days_until_event,0.07553079713668512
+avg_max_available_lot,0.06144881068232999
+section_group_count,0.05014681605331454
+listing_count_prev,0.05013019226151571
+max_available_lot,0.04762968148325131
+deal_rate,0.038150313944091054
+ga_listing_rate,0.02953017791396004
+longitude,0.02589574617273572
+latitude,0.021765651112459095
+event_hour,0.016876219307851107
+day_of_week_Tuesday,0.010927609585144545
+timezone_America/Chicago,0.008982506431955403
+is_weekend,0.008052886022844681
+day_of_week_Sunday,0.005874624768298374
+day_of_week_Friday,0.005326658462467419
+day_of_week_Saturday,0.005169986655835283
+state_CA,0.0048468711561174375
+metro_atlanta,0.004553852494382655
+timezone_America/New_York,0.004274918321243187
+timezone_America/Los_Angeles,0.004271196735134327
+city_Duluth,0.004003196131064664
+city_Kansas City,0.00395814219030499
+metro_charlotte,0.0038394368407408215
+day_of_week_Monday,0.003722360400378492
+state_MO,0.003105577319907859
+metro_kansascity,0.0030468756440156603
+state_IL,0.0030136701868005347
+city_Ontario,0.00283575034137317
+day_of_week_Wednesday,0.0028118066023448953
+city_Lynn,0.0026943219590291035
+state_TX,0.002550491598565343
+state_GA,0.002277377188951837
+metro_chicago,0.0022484983338847053
+city_Cherokee,0.0021635415178560555
+day_of_week_Thursday,0.002133350856724094
+city_Rosemont,0.0019308498105416732
+state_NC,0.001659168379262867
+metro_richmond,0.0014084845780922468
+metro_losangeles,0.0013771434482670374
+state_VA,0.0013652009678895996
+metro_houston,0.0012951620527954133
+metro_indianapolis,0.0012642368601770936
+metro_dallas,0.001259933103401635
+state_MA,0.0011956567615653553
+state_IN,0.0011899741302244776
+state_WI,0.0011219707664193352
+city_Charlottesville,0.0011154245319911944
+city_Las Vegas,0.0011110669886940355
+state_AZ,0.001075265843497212
+metro_boston,0.0010136308372789894
+city_Dallas,0.0010094279301104214
+city_San Diego,0.0009801240151912924
+timezone_America/Phoenix,0.0009530902539484484
+city_Milwaukee,0.0009371012010772336
+city_North Charleston,0.0009135160724212481
+metro_milwaukee,0.0008704634737279715
+metro_sandiego,0.0008468837051891374
+city_Irving,0.0008187460350451492
+metro_lasvegas,0.0007308610049615365
+city_Indianapolis,0.0007150063527938059
+metro_newyork,0.0006928280425077949
+city_Phoenix,0.0006292224533071252
+city_Houston,0.0005984015036927401
+metro_phoenix,0.0005949692326398449
+metro_sanfrancisco,0.000594640765403062
+city_Brooklyn,0.0005645219022588846
+state_NV,0.0005294026473596629
+timezone_America/Denver,0.0005112836426634822
+state_SC,0.00047721985061323526
+city_Des Moines,0.0004321523077153759
+state_OR,0.00035572936235367365
+state_CO,0.00035267745240454316
+city_Charleston,0.00034271880073249777
+metro_colorado,0.0003019459558707336
+state_IA,0.0002744997339861528
+metro_portland,0.00025654270337131064
+state_NY,0.00025206515486619067
+city_Los Angeles,0.00025147727966908894
+metro_nashville,0.00023787560657927278
+metro_iowacity,0.00023393900282249821
+metro_minneapolis,0.00022709951244023117
+state_MN,0.00020622059444304447
+state_TN,0.00018283628217381672
+city_Eugene,0.0001753080464206639
+state_PA,0.00016698363522336934
+city_Minneapolis,0.00015722015586237858
+city_Santa Ana,0.00012821208411172057
+city_Nashville,7.932951764983875e-05
+city_San Francisco,7.445109292965995e-05
+city_Orlando,6.800417981469714e-05
+metro_columbia,6.048551334793772e-05
+metro_orlando,5.93708198726042e-05
+city_Philadelphia,5.716015021569834e-05
+metro_philadelphia,4.195319771394685e-05
+state_CT,2.692769003715139e-05
+city_Denver,1.1156507915040982e-05
+city_Madison,4.752229873040007e-06
+metro_washingtondc,8.553420325332338e-07
+eventCategory_music,0.0
+city_Anaheim,0.0
+city_Chesterfield,0.0
+city_Chicago,0.0
+city_Carrboro,0.0
+city_Atlanta,0.0
+city_Bensalem,0.0
+city_Boston,0.0
+city_Cambridge,0.0
+city_Carmel,0.0
+city_Ann Arbor,0.0
+city_Austin,0.0
+city_Toronto,0.0
+state_FL,0.0
+state_DC,0.0
+city_San Luis Obispo,0.0
+city_Seattle,0.0
+city_Silver Spring,0.0
+city_Oxon Hill,0.0
+city_Park City,0.0
+city_Richmond,0.0
+city_Riverside,0.0
+city_Durham,0.0
+city_Fort Worth,0.0
+city_Great Barrington,0.0
+city_Highland,0.0
+city_Laval,0.0
+city_Monterey,0.0
+city_Manchester,0.0
+city_McKees Rocks,0.0
+city_Myrtle Beach,0.0
+city_Morristown,0.0
+city_Morrison,0.0
+city_Oakland,0.0
+city_Detroit,0.0
+city_Huntington,0.0
+city_Kent,0.0
+city_Tysons,0.0
+city_Washington,0.0
+city_Waterbury,0.0
+city_West Hollywood,0.0
+city_Worcester,0.0
+city_Tomball,0.0
+city_St. Paul,0.0
+city_Rama,0.0
+city_Pittsburgh,0.0
+city_San Juan Capistrano,0.0
+state_MD,0.0
+state_MI,0.0
+state_QC,0.0
+metro_fresno,0.0
+metro_detroit,0.0
+state_WA,0.0
+metro_austin,0.0
+state_UT,0.0
+state_NJ,0.0
+state_ON,0.0
+metro_international,0.0
+metro_montreal,0.0
+metro_hartford,0.0
+metro_pittsburgh,0.0
+metro_raleigh,0.0
+metro_seattle,0.0
+metro_saltlakecity,0.0
+metro_stlouis,0.0
+metro_toronto,0.0
