@@ -1,0 +1,40 @@
+/* ══════════════════════════════════════════════════
+   CrowdCast  —  Global Design Tokens & Reset
+   ══════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+:root{
+  /* Palette */
+  --clr-bg:#0b0f1a;
+  --clr-surface:#111827;
+  --clr-surface-alt:#1e2334;
+  --clr-border:#1f2a3f;
+  --clr-text:#eaf0f6;
+  --clr-muted:#7b8ba6;
+  --clr-accent:#3b82f6;
+  --clr-accent2:#8b5cf6;
+}
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+
+body{
+  font-family:'Inter',system-ui,-apple-system,sans-serif;
+  background:var(--clr-bg);
+  color:var(--clr-text);
+  line-height:1.5;
+  min-height:100vh;
+}
+
+#root{min-height:100vh;display:flex;flex-direction:column}
+
+::selection{background:var(--clr-accent);color:#fff}
+
+input,select,button{font-family:inherit}
+
+/* Scrollbar (webkit) */
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--clr-surface-alt);border-radius:3px}

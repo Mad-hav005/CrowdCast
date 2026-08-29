@@ -1,0 +1,9 @@
+.risk-badge{display:inline-flex;align-items:center;justify-content:center;font-weight:700;letter-spacing:.8px;text-transform:uppercase;border-radius:6px}
+.risk-badge--sm{font-size:10px;padding:2px 8px}
+.risk-badge--md{font-size:12px;padding:4px 12px}
+.risk-badge--lg{font-size:15px;padding:6px 18px}
+.risk-badge--low{background:rgba(16,185,129,.12);color:#10b981}
+.risk-badge--moderate{background:rgba(245,158,11,.12);color:#f59e0b}
+.risk-badge--high{background:rgba(249,115,22,.12);color:#f97316}
+.risk-badge--critical{background:rgba(239,68,68,.12);color:#ef4444}
+.risk-badge--unknown{background:rgba(107,114,128,.12);color:#6b7280}
